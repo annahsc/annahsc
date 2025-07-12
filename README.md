@@ -1,6 +1,6 @@
 ## 👾 Hey, I'm Anna 👋🏻
 
-Hey there! I’m a recent Master of Business Analytics graduate with past experience in sales analytics. 
+I’m a recent Master of Business Analytics graduate with past experiences in sales analytics. 
 This GitHub is my little playground where I share my coding, machine learning and data storytelling projects.
 
 
