@@ -6,9 +6,9 @@ This GitHub is my little playground where I share my **coding, machine learning*
 ---
 
 ### 📌 Specialties  
-- 💡 **Business Insights** – Finding value and solutions hidden in the noise of data  
-- 🔄 **Data Analysis** – Data transformation, trend discovery, pattern recognition  
-- 📊 **Data Visualization** – Turning raw numbers into graphs that speak for themselves  
+-  **Business Insights** – Finding value and solutions hidden in the noise of data  
+-  **Data Analysis** – Data transformation, trend discovery, pattern recognition  
+-  **Data Visualization** – Turning raw numbers into graphs that speak for themselves  
 
 ---
 
