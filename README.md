@@ -1,7 +1,7 @@
 ## 👾 Hey, I'm Anna 👋🏻
 
 I’m a recent Master of Business Analytics graduate with past experiences in sales analytics. 
-This GitHub is my little space where I share my coding, machine learning and data storytelling projects.
+This GitHub is my little space where I share my coding and machine learning projects.
 
 
 ### 📌 Specialties  
@@ -12,9 +12,9 @@ This GitHub is my little space where I share my coding, machine learning and dat
 
 ### 🧰 Tech Toolbox  
 - **Languages**: Python, R, SQL, HTML, CSS, JavaScript, JSON  
+- **Machine Learning**: scikit-learn, pandas, NumPy (supervised & unsupervised models)
 - **Visualisation**: Power BI, Tableau, Excel (PivotTables, VLOOKUP, INDEX-MATCH)  
 - **Databases**: MySQL, Snowflake, MongoDB, Relational Database Design (3NF)  
-- **Machine Learning**: scikit-learn, pandas, NumPy (supervised & unsupervised models)
 
 
 ### ✨ Interests  
