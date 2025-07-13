@@ -10,7 +10,7 @@ This GitHub is my little space where I share my coding and machine learning proj
 -  **Data Visualization** – Turning raw numbers into graphs that speak for themselves  
 
 
-### 🧰 Tech Toolbox  
+### 🛠️ Tech Toolbox  
 - **Languages**: Python, R, SQL, HTML, CSS, JavaScript, JSON  
 - **Machine Learning**: scikit-learn, pandas, NumPy (supervised & unsupervised models)
 - **Visualisation**: Power BI, Tableau, Excel (PivotTables, VLOOKUP, INDEX-MATCH)  
